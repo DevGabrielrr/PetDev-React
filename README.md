@@ -4,6 +4,10 @@ Este projeto é uma loja virtual de petshop desenvolvida com Next.js e React, vo
 
 
 
+https://github.com/user-attachments/assets/24fa0241-7523-4af7-b930-e0710b672490
+
+
+
  ### 🚀 Tecnologias Utilizadas
 
 - Next.js 15.1.6
